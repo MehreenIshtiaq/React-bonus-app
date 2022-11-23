@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/React-bonus-app/static/css/main.073c9b0a.css",
-    "main.js": "/React-bonus-app/static/js/main.aef6c7e8.js",
+    "main.js": "/React-bonus-app/static/js/main.999c6460.js",
     "static/js/787.28cb0dcd.chunk.js": "/React-bonus-app/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.svg": "/React-bonus-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/React-bonus-app/index.html",
     "main.073c9b0a.css.map": "/React-bonus-app/static/css/main.073c9b0a.css.map",
-    "main.aef6c7e8.js.map": "/React-bonus-app/static/js/main.aef6c7e8.js.map",
+    "main.999c6460.js.map": "/React-bonus-app/static/js/main.999c6460.js.map",
     "787.28cb0dcd.chunk.js.map": "/React-bonus-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.aef6c7e8.js"
+    "static/js/main.999c6460.js"
   ]
 }
